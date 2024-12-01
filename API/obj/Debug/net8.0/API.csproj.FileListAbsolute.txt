@@ -90,3 +90,4 @@
 /Users/diren/RiderProjects/AuthServer/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/diren/RiderProjects/AuthServer/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/diren/RiderProjects/AuthServer/API/obj/Debug/net8.0/API.sourcelink.json
+/Users/diren/RiderProjects/AuthServer/API/bin/Debug/net8.0/AutoMapper.dll

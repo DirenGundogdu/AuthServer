@@ -8,5 +8,5 @@ public interface ITokenService
 {
     TokenDto CreateToken(User user);
 
-    ClientTokenDto CreateTokenBy (Client client);
+    ClientTokenDto CreateTokenByClient (Client client);
 }

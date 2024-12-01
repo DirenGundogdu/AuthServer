@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Is+UrGUL3bo=",
+  "dgSpecHash": "AzfYMYVxXXo=",
   "success": true,
   "projectFilePath": "/Users/diren/RiderProjects/AuthServer/Service/Service.csproj",
   "expectedPackageFiles": [
+    "/Users/diren/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/diren/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/diren/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
     "/Users/diren/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.11/microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",

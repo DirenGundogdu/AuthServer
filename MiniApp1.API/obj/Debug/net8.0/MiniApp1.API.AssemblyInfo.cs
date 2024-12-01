@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniApp1.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17322c20b95702185c318b3ff10f6e260b644f98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da5eace84772924acaf6dc35ce746e8ee33edc92")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniApp1.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniApp1.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

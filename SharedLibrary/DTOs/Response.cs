@@ -23,7 +23,7 @@ public class Response<T> where T : class
         return new Response<T> { Error = errorDto, StatusCode = statusCode,IsSuccessful = false };
     }
 
-    public Response<T> Fail(string error,int statusCode,bool isShow) {
+    public static Response<T> Fail(string error,int statusCode,bool isShow) {
         var errorDto = new ErrorDto(error,isShow);
         return new Response<T> { Error = errorDto, StatusCode = statusCode,IsSuccessful = false };
     }
