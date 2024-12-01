@@ -32,3 +32,4 @@
 /Users/diren/RiderProjects/AuthServer/MiniApp3.API/obj/Debug/net8.0/MiniApp3.API.pdb
 /Users/diren/RiderProjects/AuthServer/MiniApp3.API/obj/Debug/net8.0/MiniApp3.API.genruntimeconfig.cache
 /Users/diren/RiderProjects/AuthServer/MiniApp3.API/obj/Debug/net8.0/ref/MiniApp3.API.dll
+/Users/diren/RiderProjects/AuthServer/MiniApp3.API/obj/Debug/net8.0/MiniApp3.API.sourcelink.json

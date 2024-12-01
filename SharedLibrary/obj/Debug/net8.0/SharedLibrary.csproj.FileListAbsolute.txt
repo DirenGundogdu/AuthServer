@@ -9,3 +9,4 @@
 /Users/diren/RiderProjects/AuthServer/SharedLibrary/obj/Debug/net8.0/refint/SharedLibrary.dll
 /Users/diren/RiderProjects/AuthServer/SharedLibrary/obj/Debug/net8.0/SharedLibrary.pdb
 /Users/diren/RiderProjects/AuthServer/SharedLibrary/obj/Debug/net8.0/ref/SharedLibrary.dll
+/Users/diren/RiderProjects/AuthServer/SharedLibrary/obj/Debug/net8.0/SharedLibrary.sourcelink.json

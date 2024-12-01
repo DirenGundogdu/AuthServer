@@ -13,3 +13,8 @@
 /Users/diren/RiderProjects/AuthServer/Data/obj/Debug/net8.0/refint/Data.dll
 /Users/diren/RiderProjects/AuthServer/Data/obj/Debug/net8.0/Data.pdb
 /Users/diren/RiderProjects/AuthServer/Data/obj/Debug/net8.0/ref/Data.dll
+/Users/diren/RiderProjects/AuthServer/Data/bin/Debug/net8.0/Data.runtimeconfig.json
+/Users/diren/RiderProjects/AuthServer/Data/bin/Debug/net8.0/SharedLibrary.dll
+/Users/diren/RiderProjects/AuthServer/Data/bin/Debug/net8.0/SharedLibrary.pdb
+/Users/diren/RiderProjects/AuthServer/Data/obj/Debug/net8.0/Data.sourcelink.json
+/Users/diren/RiderProjects/AuthServer/Data/obj/Debug/net8.0/Data.genruntimeconfig.cache

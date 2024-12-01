@@ -15,3 +15,6 @@
 /Users/diren/RiderProjects/AuthServer/Service/obj/Debug/net8.0/refint/Service.dll
 /Users/diren/RiderProjects/AuthServer/Service/obj/Debug/net8.0/Service.pdb
 /Users/diren/RiderProjects/AuthServer/Service/obj/Debug/net8.0/ref/Service.dll
+/Users/diren/RiderProjects/AuthServer/Service/bin/Debug/net8.0/SharedLibrary.dll
+/Users/diren/RiderProjects/AuthServer/Service/bin/Debug/net8.0/SharedLibrary.pdb
+/Users/diren/RiderProjects/AuthServer/Service/obj/Debug/net8.0/Service.sourcelink.json
